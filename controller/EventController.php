@@ -211,3 +211,5 @@ switch ($action) {
         exit();
 }
 ?>
+
+<!-- CAMBIO INICIAL -->
